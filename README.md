@@ -113,3 +113,127 @@ After setting up this homelab, I now have a Windows networking environment with 
     <img src="https://i.imgur.com/3dSJkvZ.jpeg" alt="Image" style="max-width:100%; height:auto;">
 </body>
 </html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/bDlU9wX.jpeg" alt="Image bDlU9wX" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/kxYzUYj.jpeg" alt="Image kxYzUYj" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/OPPL1kj.jpeg" alt="Image OPPL1kj" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/o1vgyjr.jpeg" alt="Image o1vgyjr" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/quhAG09.jpeg" alt="Image quhAG09" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/Gh0JHmU.jpeg" alt="Image Gh0JHmU" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/z5KFfn0.jpeg" alt="Image z5KFfn0" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/fCi8g5n.jpeg" alt="Image fCi8g5n" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/snV0a7P.jpeg" alt="Image snV0a7P" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/LuTTQGc.jpeg" alt="Image LuTTQGc" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/vegaaFY.jpeg" alt="Image vega" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/vsumVBu.jpeg" alt="Image vsumVBu" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/5SKXCHv.jpeg" alt="Image 5SKXCHv" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/GgSJMEL.jpeg" alt="Image GgSJMEL" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/q0gYkGu.jpeg" alt="Image q0gYkGu" style="max-width:100%; height:auto;">
+</body>
+</html>
+
+
+
+</head>
+<body>
+  <img src="https://i.imgur.com/fVhEZuU.jpeg" alt="Image fVhEZuU" style="max-width:100%; height:auto;">
+</body>
+</html>
